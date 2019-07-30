@@ -20,5 +20,5 @@ Jupyter Notebook is great for the following use cases:
 
 #### Authors
 
- **Izzat@John**  
+ ***aizzat***  
 
