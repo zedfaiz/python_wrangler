@@ -1,4 +1,4 @@
-### Project Title = Data analytic in analytic sector
+#### Project Title = Data analytic in analytic sector
 
 To process complain data from BCRM and identify possible root cause and bucket them under predefined category. The reporting system will identify outliers and help further investigation of root cause problem.
 
@@ -16,9 +16,9 @@ Jupyter Notebook is great for the following use cases:
 			statistical modeling
 			machine learning
 
-## Let’s get started and install Jupyter Notebook on your computer …
+### Let’s get started and install Jupyter Notebook on your computer …
 
-## Authors
+### Authors
 
- **Izzat Faiz Johan**  
+ **Izzat@John**  
 
