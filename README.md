@@ -1,4 +1,4 @@
-### Project Title = Data analytic in analytic sector
+### Project Title = Data analytic in electricity sector
 
 To process complain data from BCRM and identify possible root cause and bucket them under predefined category. The reporting system will identify outliers and help further investigation of root cause problem.
 
